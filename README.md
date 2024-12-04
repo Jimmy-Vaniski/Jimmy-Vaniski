@@ -35,6 +35,7 @@ Today, I see challenges as opportunities to grow. My curiosity continues to driv
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
