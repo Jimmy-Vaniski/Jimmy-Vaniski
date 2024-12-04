@@ -3,6 +3,8 @@
 <a href="https://linkedin.com/in/jimmy-vaniski-84310123a/"><img src="https://img.shields.io/badge/-Jimmy%20Vaniski-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vaniskito@hotmail.com"><img src="https://img.shields.io/badge/-vaniskito@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://jimmy-vaniski.netlify.app/"><img src="https://img.shields.io/badge/-jimmy--vaniski.netlify.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://wa.me/351911881183">
+<img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
